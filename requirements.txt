@@ -1,0 +1,4 @@
+numpy
+matplotlib
+pyaudio # needs portaudio libraries installed
+scipy
